@@ -1,0 +1,22 @@
+{
+    "pensamentos":[
+        {
+            "id": 1,
+            "conteudo": "Que bom que você veio",
+            "autoria": "Miquelane Melo",
+            "modelo": "modelo2"
+        },
+        {
+            "id": 2,
+            "conteudo": "A minha felicidade não é um meio para qualquer fim. Ela é o fim. É o seu próprio objetivo. É o seu próprio propósito.",
+            "autoria": "Ayn Rand",
+            "modelo": "modelo1"
+        },
+        {
+            "id": 3,
+            "conteudo": "Quando você estabelece que uma alternativa é boa e outra é má, não há justificativa para a escolha de uma mistura. Não há nenhuma justificativa para escolher qualquer parte do que você conhece ser ruim.",
+            "autoria": "Ayn Rand",
+            "modelo": "modelo3"
+        }
+    ]
+}
