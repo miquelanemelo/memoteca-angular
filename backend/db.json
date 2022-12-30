@@ -1,22 +1,34 @@
 {
-    "pensamentos":[
-        {
-            "id": 1,
-            "conteudo": "Que bom que você veio",
-            "autoria": "Miquelane Melo",
-            "modelo": "modelo2"
-        },
-        {
-            "id": 2,
-            "conteudo": "A minha felicidade não é um meio para qualquer fim. Ela é o fim. É o seu próprio objetivo. É o seu próprio propósito.",
-            "autoria": "Ayn Rand",
-            "modelo": "modelo1"
-        },
-        {
-            "id": 3,
-            "conteudo": "Quando você estabelece que uma alternativa é boa e outra é má, não há justificativa para a escolha de uma mistura. Não há nenhuma justificativa para escolher qualquer parte do que você conhece ser ruim.",
-            "autoria": "Ayn Rand",
-            "modelo": "modelo3"
-        }
-    ]
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "A minha felicidade não é um meio para qualquer fim. Ela é o fim. É o seu próprio objetivo. É o seu próprio propósito.",
+      "autoria": "Ayn Rand",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Quando você estabelece que uma alternativa é boa e outra é má, não há justificativa para a escolha de uma mistura. Não há nenhuma justificativa para escolher qualquer parte do que você conhece ser ruim.",
+      "autoria": "Ayn Rand",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "A menor minoria na Terra é o indivíduo. Aqueles que negam os direitos individuais não podem se dizer defensores das minorias.",
+      "autoria": "Ayn Rand",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Liberdade (s.): Não pedir nada. Não esperar nada. Não depender de nada.",
+      "autoria": "Ayn Rand",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "No início, o homem foi escravizado pelos deuses. Mas ele quebrou essas correntes. Então ele foi escravizado pelos reis. Mas ele também quebrou essas correntes. Ele foi escravizado por seu nascimento, por seus parentes e por sua raça. Mas ele quebrou todas essa s correntes. Ele declarou a todos os seus irmãos que, um homem, tem direitos que nem deuses, nem o rei, nem os outros, podem tirar-lhe, independentemente do seu número, pois o dele é o direito do homem, e não há direito na Terra acima desse direito. E sempre que esse direito não for respeitado, com certeza, o sangue será derramado.",
+      "autoria": "Ayn Rand",
+      "modelo": "modelo1",
+      "id": 6
+    }
+  ]
 }
